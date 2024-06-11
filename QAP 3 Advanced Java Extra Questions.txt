@@ -1,0 +1,19 @@
+QAP 3 Advanced Java Extra Questions
+
+1. How many hours did it take to complete this assignment?
+
+	This assignment took me roughly 1.5 hours.
+
+2. What online resources did I use?
+
+	I only used class lectures to get a better understanding of some areas of the SYNTAX.
+
+3. Did I need to ask any of my friends to help solve my problems?
+	No, I did not ask for any help from friends.
+
+4. Did I need to ask my instructor for any help?
+	I did not ask any of my instructors for help.
+
+5. Rate the difficulty of this assignment:
+	I would rate this assignment a 2/10 difficulty. This assignment was very straight forward. None of the task caused me any issues. There were a few things I needed clarification on like better understanding the @Override line of code but other than that I had no issues. I am very confident I could do a similar project.
+
